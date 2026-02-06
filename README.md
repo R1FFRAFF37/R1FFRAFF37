@@ -1,6 +1,6 @@
 ## About me
 
-Aspiring **Product Analyst** with a strong interest in data-driven decision making and a planned transition into **Machine Learning**.
+**Product Analyst** with a strong interest in data-driven decision making and a planned transition into **Machine Learning**.
 Focused on metrics, experimentation, and turning data into clear product insights.
 
 Currently building a solid foundation in product analytics while gradually deepening ML knowledge.
@@ -19,7 +19,7 @@ Currently building a solid foundation in product analytics while gradually deepe
 
 ## Projects
 
-🚧 **In progress**
+**In progress**
 
 ### Product Feature Analysis & A/B Testing  
 End-to-end product analytics project simulating the work of a product analyst in a mass digital product:
