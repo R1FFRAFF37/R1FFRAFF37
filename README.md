@@ -1,16 +1,44 @@
-## Hi there 👋
+## About me
 
-<!--
-**R1FFRAFF37/R1FFRAFF37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Product Analyst** with a strong interest in data-driven decision making and a planned transition into **Machine Learning**.
+Focused on metrics, experimentation, and turning data into clear product insights.
 
-Here are some ideas to get you started:
+Currently building a solid foundation in product analytics while gradually deepening ML knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech stack
+
+- **Product analytics**: product metrics, funnel analysis, A/B testing
+- **Python**: Pandas, NumPy, Matplotlib, scikit-learn
+- **SQL**: PostgreSQL, MySQL
+- **Machine Learning**: basic models and evaluation metrics
+- **Tools**: Git, Jupyter Notebook
+
+---
+
+## Projects
+
+🚧 **In progress**
+
+### Product Feature Analysis & A/B Testing  
+End-to-end product analytics project simulating the work of a product analyst in a mass digital product:
+- hypothesis formulation
+- metric selection (conversion, retention)
+- A/B test design (target uplift, MDE)
+- statistical analysis (t-test, bootstrap, confidence intervals)
+- business conclusions and recommendations
+
+### Subscription Churn Prediction  
+Machine learning project focused on churn prediction with a strong product mindset:
+- exploratory data analysis and feature interpretation
+- baseline ML models (Logistic Regression, Random Forest)
+- evaluation using business-relevant metrics (ROC-AUC, Precision, Recall)
+- analysis of churn drivers and product recommendations
+---
+
+## Goals
+
+- Grow as a **Product Analyst** in a data-driven product team
+- Build strong fundamentals in statistics and experimentation
+- Transition into applied **Machine Learning** over time
